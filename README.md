@@ -52,7 +52,7 @@ fraud-detection-system/
 
 1. Clone this repository
 
-git clone https://github.com/YourUsername/fraud-detection-system.git
+git clone https://github.com/ankita-14-art/fraud-detection-system.git
 cd fraud-detection-system
 
 
